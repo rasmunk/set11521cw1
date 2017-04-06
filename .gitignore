@@ -6,9 +6,6 @@ __pycache__/
 # OSX
 .DS_Store
 
-# Pycharm project file
-.idea/
-
 # C extensions
 *.so
 
@@ -93,3 +90,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Pycharm project file
+.idea/
